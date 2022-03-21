@@ -1,0 +1,25 @@
+#image{
+height: 450px;
+width: 750px;
+border: 5px dotted red;
+}
+.AG{
+    position:fixed;
+    bottom: 5px;
+    right:20px;
+    width:200px;
+    color:black;
+box-shadow:5px 5px 5px grey;
+}
+.heading{
+   background-color: rgb(243, 243, 170); 
+}
+body{
+    background-image: radial-gradient(lightblue,lightyellow,lightpink);
+}
+.status{
+    font-size: 20;
+}
+canvas{
+    border:5px dotted red;
+}

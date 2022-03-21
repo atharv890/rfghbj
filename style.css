@@ -1,0 +1,13 @@
+.Bed,.TV,.Desk,.Fruit,.Bottles{
+ width: 200px ;
+ font-size: 20px;
+ box-shadow:5px 5px 5px grey;
+}
+.AG{
+    position:fixed;
+    bottom: 5px;
+    right:20px;
+    width:200px;
+    color:black;
+box-shadow:5px 5px 5px grey;
+}
